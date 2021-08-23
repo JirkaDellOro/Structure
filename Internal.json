@@ -78,56 +78,5 @@
       "idResource": "Graph|2021-08-23T20:38:07.911Z|99078",
       "type": "Graph"
     }
-  },
-  "Graph|2021-08-23T20:39:33.997Z|11583": {
-    "ƒ.Graph": {
-      "name": "Delete",
-      "components": {},
-      "children": [
-        {
-          "ƒ.Node": {
-            "name": "New Node",
-            "components": {
-              "ComponentMaterial": [
-                {
-                  "ƒ.ComponentMaterial": {
-                    "sortForAlpha": false,
-                    "clrPrimary": "[1, 1, 1, 1]",
-                    "clrSecondary": "[1, 1, 1, 1]",
-                    "pivot": {
-                      "translation": "[0, 0]",
-                      "rotation": 0,
-                      "scaling": "[1, 1]"
-                    },
-                    "Component": {
-                      "active": true
-                    },
-                    "idMaterial": "Material|2021-08-23T20:33:14.564Z|93382"
-                  }
-                }
-              ],
-              "ComponentMesh": [
-                {
-                  "ƒ.ComponentMesh": {
-                    "idMesh": "MeshPyramid|2021-08-23T20:33:10.525Z|81022",
-                    "pivot": {
-                      "translation": "[0, 0, 0]",
-                      "rotation": "[0, 0, 0]",
-                      "scaling": "[1, 1, 1]"
-                    },
-                    "Component": {
-                      "active": true
-                    }
-                  }
-                }
-              ]
-            },
-            "children": []
-          }
-        }
-      ],
-      "idResource": "Graph|2021-08-23T20:39:33.997Z|11583",
-      "type": "Graph"
-    }
   }
 }
