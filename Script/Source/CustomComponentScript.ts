@@ -3,7 +3,7 @@ namespace Script {
   ƒ.Project.registerScriptNamespace(Script);
 
   export class CustomComponentScript extends ƒ.ComponentScript {
-    public static readonly iSubclass: number = ƒ.Component.registerSubclass(TimerMessage);
+    public static readonly iSubclass: number = ƒ.Component.registerSubclass(CustomComponentScript);
     public prefix: string = "Script: ";
     public count: number = 0;
     #timer: ƒ.Timer;
